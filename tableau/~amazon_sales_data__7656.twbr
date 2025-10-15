@@ -3147,7 +3147,7 @@ This helps the VP of Sales identify which regions are underperforming or growing
       <simple-id uuid='{D62EE385-7860-4B28-BAD2-1C77F5CAF859}' />
     </dashboard>
   </dashboards>
-  <windows pres-mode='true' saved-dpi-scale-factor='1.25' source-height='37'>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
     <window class='worksheet' name='Sales Projection'>
       <cards>
         <edge name='left'>
