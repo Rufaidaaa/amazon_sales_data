@@ -1186,6 +1186,17 @@
               <bucket>true</bucket>
             </map>
           </encoding>
+          <encoding attr='color' field='[none:segment:nk]' type='palette'>
+            <map to='#a63d32'>
+              <bucket>&quot;Corporate&quot;</bucket>
+            </map>
+            <map to='#c16941'>
+              <bucket>&quot;Consumer&quot;</bucket>
+            </map>
+            <map to='#d99455'>
+              <bucket>&quot;Home Office&quot;</bucket>
+            </map>
+          </encoding>
           <encoding attr='color' field='[none:sub_category:nk]' type='palette'>
             <map to='#a63d32'>
               <bucket>&quot;Bookcases&quot;</bucket>
@@ -1239,15 +1250,21 @@
               <bucket>&quot;Phones&quot;</bucket>
             </map>
           </encoding>
-          <encoding attr='color' field='[none:segment:nk]' type='palette'>
+          <encoding attr='color' field='[none:product_name:nk]' type='palette'>
             <map to='#a63d32'>
-              <bucket>&quot;Corporate&quot;</bucket>
+              <bucket>&quot;Nokia Smart Phone, Full Size&quot;</bucket>
             </map>
-            <map to='#c16941'>
-              <bucket>&quot;Consumer&quot;</bucket>
+            <map to='#ad4433'>
+              <bucket>&quot;Canon imageCLASS 2200 Advanced Copier&quot;</bucket>
             </map>
-            <map to='#d99455'>
-              <bucket>&quot;Home Office&quot;</bucket>
+            <map to='#c97b4d'>
+              <bucket>&quot;Apple Smart Phone, Full Size&quot;</bucket>
+            </map>
+            <map to='#de9d5a'>
+              <bucket>&quot;Cisco Smart Phone, Full Size&quot;</bucket>
+            </map>
+            <map to='#ebc994'>
+              <bucket>&quot;Motorola Smart Phone, Full Size&quot;</bucket>
             </map>
           </encoding>
           <encoding attr='color' field='[none:customer_name:nk]' type='palette'>
@@ -1265,23 +1282,6 @@
             </map>
             <map to='#ecd2a8'>
               <bucket>&quot;Christopher Conant&quot;</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[none:product_name:nk]' type='palette'>
-            <map to='#a63d32'>
-              <bucket>&quot;Nokia Smart Phone, Full Size&quot;</bucket>
-            </map>
-            <map to='#ad4433'>
-              <bucket>&quot;Canon imageCLASS 2200 Advanced Copier&quot;</bucket>
-            </map>
-            <map to='#c97b4d'>
-              <bucket>&quot;Apple Smart Phone, Full Size&quot;</bucket>
-            </map>
-            <map to='#de9d5a'>
-              <bucket>&quot;Cisco Smart Phone, Full Size&quot;</bucket>
-            </map>
-            <map to='#ebc994'>
-              <bucket>&quot;Motorola Smart Phone, Full Size&quot;</bucket>
             </map>
           </encoding>
         </style-rule>
@@ -2906,8 +2906,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2450' minheight='2450' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='98' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98002' id='97' param='vert' type-v2='layout-flow' w='99050' x='475' y='999'>
+            <zone h='100000' id='100' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98002' id='99' param='vert' type-v2='layout-flow' w='99050' x='475' y='999'>
                 <zone fixed-size='112' h='11236' id='32' is-fixed='true' is-scaled='1' param='D:/BSBI Masters/Data Visualization using Tableau/Project Output/Amazon.png' type-v2='bitmap' w='19756' x='-61' y='0'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
