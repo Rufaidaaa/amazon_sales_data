@@ -20,8 +20,9 @@ It provides a comprehensive view of sales performance across multiple regions an
 
 ---
 
-Yearly Insights and Storytelling Narrative (2013–2015)
-2013 Dashboard Insights:
+## Yearly Insights and Storytelling Narrative (2013–2015)
+
+**2013 Dashboard Insights**
 
 Overall Sales: Amazon achieved a Sales Projection of $2.68M, a Gross Profit of $307.42K, and a Product Volume of 38.11K units.
 
@@ -36,7 +37,7 @@ Category Insights: Among all product lines, Technology and Furniture outperforme
 Profit Trends: The highest profit was recorded in Technology subcategories like Copiers and Phones, while Office Supplies had thinner margins.
 Narrative: 2013 was a consolidation year with moderate sales volume. The growth was primarily technology-driven, though geographic sales imbalance indicated room for regional diversification.
 
-2014 Dashboard Insights:
+**2014 Dashboard Insights**
 
 Overall Sales: Sales rise significantly to a Sales Projection of $3.41M, Gross Profit of $406.94K, and Product Volume of 48.14K, showing a strong upward trajectory from 2013.
 
@@ -51,7 +52,7 @@ Category and Subcategory: Technology remained the most profitable category, whil
 Profit Analysis: The Copiers and Phones subcategories remained the top profit generators, while Binders and Labels contributed less.
 Narrative: 2014 marked a year of growth, diversification, and customer expansion. Amazon effectively leveraged strong technology sales and improved supply chain performance to drive both volume and profit.
 
-2015 Dashboard Insights
+**2015 Dashboard Insights**
 
 Overall Sales: This was the peak performance year, with Sales Projection of $4.30M, Gross Profit of $504.17K, and Product Volume of 60.62K, the highest across all years.
 
@@ -68,7 +69,7 @@ Narrative: 2015 was the breakout year — reflecting strategic customer growth, 
 
 ---
 
-Positive Highlights
+**Positive Highlights**
 
 Consistent year-over-year growth in sales and profit.
 
@@ -78,7 +79,7 @@ Customer loyalty seen in recurring top buyers.
 
 Oceania and Asia are the strongest-performing regions.
 
-Limitations / Challenges
+**Limitations / Challenges**
 
 U.S. market underperformance across years.
 
