@@ -93,7 +93,7 @@ Profit dependency on a few high-margin tech subcategories — diversification is
 
 ## Deployment
 
-- Tableau Public: https://public.tableau.com/app/profile/rufaida.shafiq/viz/Amazon_Sales_Data_17605184628500/Dashboard
+- Tableau Public: https://public.tableau.com/app/profile/rufaida.shafiq/viz/Amazon_Sales_Dashboard_17606146971900/Dashboard
 - Local: Open `.twb` file in Tableau Desktop.
 
 ## Contributing
